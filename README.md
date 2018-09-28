@@ -29,3 +29,4 @@ Leave the `npm start` dev server running in the background, besides launching a 
 Now open up the project code in your text editor and follow the tutorial, saving your changes as you go along.
 
 > NOTE: You only need to edit the code in `./src/TicTacToe/index.js` for the tutorial.
+# week-02-projects
